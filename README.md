@@ -1,5 +1,5 @@
 # BookCrawler
-仅针对http://www.qihuan.net.cn/book-east.html网页上的小说资源爬取。
+仅针对http://www.qihuan.net.cn/book-east.html 网页上的小说资源爬取。
 如需要爬取其他分类，比如西方奇幻，需要在代码中把网页链接换一下
 
 爬虫大致思想都是爬取html源码，再从源码中去分析数据匹配自己想要的部分，保留下来。
